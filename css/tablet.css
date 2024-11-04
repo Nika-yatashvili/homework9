@@ -1,0 +1,23 @@
+@media (max-width: 711px) {
+    /* header */
+    nav {
+        display: none;
+    }
+
+    .burger {
+        display: block;
+    }
+
+    /* section */
+    .mainSection {
+        padding-inline: 38px;
+    }
+
+    .sectionArticle {
+        width: 307px;
+    }
+
+    .section2Title {
+        margin-top: 40px;
+    }
+}
